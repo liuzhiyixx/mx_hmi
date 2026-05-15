@@ -3,6 +3,8 @@
 一个轻量的 Windows 窗口置顶工具。
 
 用于把普通应用窗口设置为始终置顶，也可以随时取消置顶。适合那些本身没有置顶功能、但需要长时间浮在其他窗口上方的软件。
+<img width="1901" height="999" alt="image" src="https://github.com/user-attachments/assets/2c30f6ac-a578-461d-90e8-208d171baf6c" />
+
 
 ## 功能
 
