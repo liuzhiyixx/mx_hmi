@@ -1,0 +1,15 @@
+# Build outputs
+bin/
+release/
+
+# User and editor files
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Runtime diagnostics
+crash.log
+startup.log
+bin/crash.log
+bin/startup.log
